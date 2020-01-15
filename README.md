@@ -27,9 +27,9 @@ There are a few components to this lesson, in the following order:
 
 **To do the in class exercises, you can either...**
 
-    1. Fork and clone this repository to your local machine and work in the relevant files
-    1. Use [this codepen](https://codepen.io/GAmarketing/pen/MxWpQW0) provided by the myGA Divide and Conquer module
-    1. Regardless of which way you choose, the exercises are the exact same
+1. Fork and clone this repository to your local machine and work in the relevant files
+1. Use [this codepen](https://codepen.io/GAmarketing/pen/MxWpQW0) provided by the myGA Divide and Conquer module
+1. Regardless of which way you choose, the exercises are the exact same
 
 ## Additional Resources
 * Check out [this visualization](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html) for both merge sort and quick sort.
