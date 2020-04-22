@@ -6,7 +6,7 @@
 This lesson covers two sorting algorithms that use the "divide-and-conquer" method: merge sort and quick sort.
 
 ## Learning Objectives
-By the end of this lesson, you will be able to:
+By the end of this two-part lesson, you will be able to:
 - Describe how to use merge sort and quick sort to sort data.
 - Explain the space and time complexities of merge sort and quick sort.
 - Identify when to use merge sort or quick sort in a given scenario.
@@ -15,21 +15,26 @@ By the end of this lesson, you will be able to:
 * Big O Notation
 * Recursion
 * Intro to Sorting
+* Basic Sorting Algorithms
 
 
-## Activity 
+## Merge Sort 
 
-There are a few components to this lesson, in the following order:
+1. [myGA module: Divide-and-Conquer Sorting Algorithms](https://my.generalassemb.ly/activities/882) (stop after slide 9)
+2. [In-Class Exercise: Implementing Merge Sort](./exercises/MergeSort.js) (or use the [CodePen](https://codepen.io/GAmarketing/pen/MxWpQW))
 
-1. [myGA module: Divide-and-Conquer Sorting Algorithms](https://my.generalassemb.ly/activities/882)
-2. [In-Class Exercise: Implementing Merge Sort](./exercises/MergeSort.js)
-3. [In-Class Exercise: Implementing Quick Sort](./exercises/QuickSort.js)
+## Quick Sort 
+
+1. [myGA module: Divide-and-Conquer Sorting Algorithms](https://my.generalassemb.ly/activities/882) (start at slide 10)
+1. [In-Class Exercise: Implementing Quick Sort](./exercises/QuickSort.js) (or use the [CodePen](https://codepen.io/GAmarketing/pen/MxWpQW))
+
 
 **To do the in class exercises, you can either...**
 
-1. Fork and clone this repository to your local machine and work in the relevant files
-1. Use [this codepen](https://codepen.io/GAmarketing/pen/MxWpQW) provided by the myGA Divide and Conquer module
-1. Regardless of which way you choose, the exercises are the exact same
+1. Fork and clone this repository to your local machine and work in the relevant files.
+1. Use [the CodePen](https://codepen.io/GAmarketing/pen/MxWpQW) provided by the myGA Divide and Conquer module.
+
+>Regardless of which way you choose, the exercises are the exact same!
 
 ## Additional Resources
 * Check out [this visualization](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html) for both merge sort and quick sort.
