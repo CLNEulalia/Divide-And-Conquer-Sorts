@@ -28,6 +28,7 @@ By the end of this two-part lesson, you will be able to:
 1. [myGA module: Divide-and-Conquer Sorting Algorithms](https://my.generalassemb.ly/activities/882) (start at slide 10)
 1. [In-Class Exercise: Implementing Quick Sort](./exercises/QuickSort.js) (or use the [CodePen](https://codepen.io/GAmarketing/pen/MxWpQW))
 
+<hr>
 
 **To do the in class exercises, you can either...**
 
