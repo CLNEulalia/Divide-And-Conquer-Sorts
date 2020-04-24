@@ -38,6 +38,7 @@ By the end of this two-part lesson, you will be able to:
 >Regardless of which way you choose, the exercises are the exact same!
 
 ## Additional Resources
+* A deep [dive](https://medium.com/javascript-in-plain-english/javascript-merge-sort-3205891ac060) into Merge Sort and an example of how to implement it in JavaScript.
 * Check out [this visualization](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html) for both merge sort and quick sort.
 * Revisit our folk-dancing friends, now showing [merge sort](https://www.youtube.com/watch?v=XaqR3G_NVoo) and [quick sort](https://www.youtube.com/watch?v=ywWBy6J5gz8&list=PLuE79vNc5Wi6q34LsQcaJ7ISQ8uOyMaL_&index=4).
 * [This tool](http://me.dt.in.th/page/Quicksort/) is useful for understanding how quick sort works.
