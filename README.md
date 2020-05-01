@@ -7,7 +7,7 @@ This lesson covers two sorting algorithms that use the "divide-and-conquer" meth
 
 ## Homework Instructions
 
-Previously, we covered Merge Sort. Review the concepts of Divide-and-Conquer sorting algorithms as well as Merge Sort, then proceed to the Quick Sort part of the GA module. 
+Previously, we covered Merge Sort. Review the concepts of Divide-and-Conquer sorting algorithms as well as Merge Sort, then proceed to the [Quick Sort](https://git.generalassemb.ly/seir-323/divide-and-conquer-sorts#quick-sort) part of the lesson. 
 
 When you have finished the module and worked on the code for Quick Sort, submit an issue on this repository to summarize your learnings on the topic. 
 
