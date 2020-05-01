@@ -1,9 +1,18 @@
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
 
-# Divide-and-Conquer Sorts
+# Divide-and-Conquer Sorts (Homework)
 
 ## Overview
 This lesson covers two sorting algorithms that use the "divide-and-conquer" method: merge sort and quick sort.
+
+## Homework Instructions
+
+Previously, we covered Merge Sort. Review the concepts of Divide-and-Conquer sorting algorithms as well as Merge Sort, then proceed to the Quick Sort part of the GA module. 
+
+When you have finished the module and worked on the code for Quick Sort, submit an issue on this repository to summarize your learnings on the topic. 
+
+Unless otherwise noted, homework is due by 10 am ET the next day. 
+
 
 ## Learning Objectives
 By the end of this two-part lesson, you will be able to:
