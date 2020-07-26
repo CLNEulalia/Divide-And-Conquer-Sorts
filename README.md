@@ -1,6 +1,6 @@
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
 
-# Divide-and-Conquer Sorts (Homework)
+# Divide-and-Conquer Sorts
 
 ## Overview
 This lesson covers two sorting algorithms that use the "divide-and-conquer" method: merge sort and quick sort.
