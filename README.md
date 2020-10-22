@@ -7,12 +7,13 @@ This lesson covers two sorting algorithms that use the "divide-and-conquer" meth
 
 ## Homework Instructions
 
-Previously, we covered Merge Sort. Review the concepts of Divide-and-Conquer sorting algorithms as well as Merge Sort, then proceed to the [Quick Sort](https://git.generalassemb.ly/seir-323/divide-and-conquer-sorts#quick-sort) part of the lesson. 
+When you have finished the module, submit an issue on this repository to summarize your learnings on the topic. 
 
-When you have finished the module and worked on the code for Quick Sort, submit an issue on this repository to summarize your learnings on the topic. 
+**There are two separate issue templates, one for Merge Sort and one for Quick Sort! Be sure to submit the issue with the correct template for the sorting algo at hand.**
 
 Unless otherwise noted, homework is due by 10 am ET the next day. 
 
+Save the coding portion of the assignment for the next morning! 
 
 ## Learning Objectives
 By the end of this two-part lesson, you will be able to:
