@@ -14,11 +14,11 @@ Answer the questions below!
 1. In your own words, describe the advantages of the Divide and Conquer approach to sorting. 
 > Your answer here. 
 
-1. What are the steps of Merge Sort? Be sure to describe its two phases in your answer. 
+2. What are the steps of Merge Sort? Be sure to describe its two phases in your answer. 
 > Your answer here. 
 
-1. What is the overall worst-case time complexity of Merge Sort and why? 
+3. What is the overall worst-case time complexity of Merge Sort and why? 
 > Your answer here. 
 
-1. What is the overall worst-case space complexity of Merge Sort and why? 
+4. What is the overall worst-case space complexity of Merge Sort and why? 
 > Your answer here.
