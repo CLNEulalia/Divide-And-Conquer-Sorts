@@ -11,7 +11,7 @@ When you have finished the module, submit an issue on this repository to summari
 
 **There are two separate issue templates, one for Merge Sort and one for Quick Sort! Be sure to submit the issue with the correct template for the sorting algo at hand.**
 
-Unless otherwise noted, homework is due by 10 am ET the next day. 
+Unless otherwise noted, homework is due by 9 am ET the next day. 
 
 Save the coding portion of the assignment for the next morning! 
 
